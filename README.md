@@ -21,6 +21,7 @@ Soft Skills:
 📬 Get in Touch:
 
 LinkedIn: www.linkedin.com/in/suraj-kushwaha-baa07b162
+
 Email: suraj21kushwaha@gmail.com
 
 I am filled with immense enthusiasm to kickstart my career in IT industry and currently open to design and verification positions PAN India.
