@@ -1,27 +1,29 @@
 👋 Hello World, I'm Suraj Kushwaha 👋
 
-I always wondered, How to design an effective website in the world? This question gave me motive to dive into the Full Stack Development.
+🌐 About Me
+Driven by the question, "How can one design the most effective website in the world?", I embarked on a journey into Full Stack Development. My mission is to contribute to the advancement of the IT industry by applying the right skill set and unlocking the immense potential of web development.
 
-My aim is to contribute in advancement of IT industry by applying the right skill set and unveil the hidden powers of web development.
+💡 Technical Skills
+* Frontend: HTML, CSS, Bootstrap, JavaScript, React.js, React-Native, Redux
+* Backend: Node.js, Express.js
+* Databases: MongoDB, MySQL
+* Programming: Java
+  
+🔧 Hands-On Experience
+* Designing intuitive and effective frontend pages.
+* Building robust backend servers and seamlessly connecting them to databases.
 
-Here's the sneak peak of the technical skills I have:
-* HTML | CSS | Boot-Strap | JavaScript | React.js | redux | Node.js | Express.js | MongoDB | MySQL | Java
-
-Hands on experience:
-* Designing effective Front End Page.
-* Connect the Backend Server with Database.
-
-Soft Skills:
+🌟 Soft Skills
 * Adaptive
 * Problem Solver
-* Effective communication
+* Effective Communication
 * Collaborative
 * Decision Making
+  
+📬 Let's Connect
+* LinkedIn: www.linkedin.com/in/suraj-kushwaha-baa07b162
+* Email: suraj21kushwaha@gmail.com
+  
+🎯 Career Goals
+I am enthusiastic about starting my career in the IT industry and am currently open to design and verification roles across PAN India.
 
-📬 Get in Touch:
-
-LinkedIn: www.linkedin.com/in/suraj-kushwaha-baa07b162
-
-Email: suraj21kushwaha@gmail.com
-
-I am filled with immense enthusiasm to kickstart my career in IT industry and currently open to design and verification positions PAN India.
